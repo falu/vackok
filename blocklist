@@ -12,7 +12,7 @@
 0.0.0.0 9xbuddy.org
 0.0.0.0 stb.hu
 0.0.0.0 semmiszor.hu
-szexpartnerchat.com
-(\.|^)jakegame\.com$
-(\.|^)topszexpartner\.com$
-(\.|^)biguz\.net$
+0.0.0.0 szexpartnerchat.com
+0.0.0.0 (\.|^)jakegame\.com$
+0.0.0.0 (\.|^)topszexpartner\.com$
+0.0.0.0 (\.|^)biguz\.net$
